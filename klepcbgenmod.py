@@ -13,7 +13,7 @@ from jinja2 import Environment, FileSystemLoader, StrictUndefined
 PROGRAM_VERSION = "0.1"
 
 # Constants
-MAX_ROWS = 7
+MAX_ROWS = 9
 MAX_COLS = 18
 
 class KeyBlockCollection:
